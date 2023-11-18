@@ -47,7 +47,7 @@ Basic Structure of an HTML document:
                       
 + #### Headings
                               
-HTML provides six levels of headings: <h1> to <h6>.
+HTML provides six levels of headings from <h1> to <h6>.
 
 ``` bash
 <h1>This is a Heading 1</h1>
