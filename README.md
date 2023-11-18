@@ -145,7 +145,7 @@ Follow the Given steps to create the following in HTML:
 + Create a new HTML file:
      + Go to File -> New File or press Ctrl + N.
      + Save the file with an appropriate name and the .html extension (e.g., index.html).
-     + Start with the basic structure: <!DOCTYPE html>, <html>, <head>, and <body> tags
+     + Start with the basic structure: `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags
 
 ```bash
 <!DOCTYPE html>
@@ -168,8 +168,8 @@ Follow the Given steps to create the following in HTML:
 
 **Step 2: Add Meta Information**
 
-+ Inside the <head> tag, include a <meta> tag to define the character encoding: <meta charset="UTF-8">.
-+ Set the title of the page using the <title> tag: <title>Search Bar </title>.
++ Inside the `<head>` tag, include a `<meta>` tag to define the character encoding: `<meta charset="UTF-8">`.
++ Set the title of the page using the `<title>` tag: `<title>`Search Bar`</title>`.
 
 ```bash
 <!DOCTYPE html>
@@ -189,10 +189,10 @@ Follow the Given steps to create the following in HTML:
 
 **Step 3: Create the Input Bar Structure and add SVG**
 
-+ Inside the <body> tag, create a <div> element to contain the search bar.
-+ Inside the <div>, add an <svg> element for the search icon
++ Inside the `<body>` tag, create a `<div>` element to contain the search bar.
++ Inside the `<div>`, add an <svg> element for the search icon
 + Use the viewBox attribute to set the coordinate system: viewBox="0 0 24 24".
-+ Include a <path> element within the <svg> to define the shape of the search icon using the d attribute.
++ Include a `<path>` element within the `<svg>` to define the shape of the search icon using the d attribute.
 
 ```bash
 <!DOCTYPE html>
@@ -222,7 +222,7 @@ Follow the Given steps to create the following in HTML:
 
 **Step 4: Add the Input Field**
 
-+ Within the <div>, add an <input> element:
++ Within the `<div>`, add an `<input>` element:
     + Set the type to "text":type="text".
     + Include a placeholder attribute to display text in the input field when it's empty: placeholder="Search...".
 
