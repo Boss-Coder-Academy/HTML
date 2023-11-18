@@ -47,7 +47,7 @@ Basic Structure of an HTML document:
                       
 + #### Headings
                               
-HTML provides six levels of headings from <h1> to <h6>.
+HTML provides six levels of headings from `<h1>` to `<h6>`.
 
 ``` bash
 <h1>This is a Heading 1</h1>
@@ -68,13 +68,13 @@ To create paragraphs:
 
 + #### Links
 
-Creating links using <a> tag:
+Creating links using `<a>` tag:
 ```bash
 <a href="https://example.com">Visit Example</a>
 ```
 
 + #### Images
-Inserting images using <img> tag:
+Inserting images using `<img>` tag:
 ```bash
 <img src="image.jpg" alt="Description of the image">
 ```
@@ -98,7 +98,7 @@ Creating ordered and unordered lists:
 
 + #### Forms
                 
-Basic form structure using <form>, <input>, and <button>:
+Basic form structure using `<form>`, `<input>`, and `<button>`:
 ```bash
 <form>
     <input type="text" placeholder="Enter your name">
@@ -108,7 +108,8 @@ Basic form structure using <form>, <input>, and <button>:
 
 + #### Tables
 
-Creating tables with <table>, <tr>, <td>, and <th>:
+Creating tables with `<table>`, `<tr>`, `<td>`, and `<th>`:
+
 ```bash
 <table>
     <tr>
@@ -126,6 +127,7 @@ Creating tables with <table>, <tr>, <td>, and <th>:
 
 Comments are used to add notes or descriptions within the code that are not visible to users when the page is rendered in a web browser.
 We can pass comments in an HTML document in the following way :
+
 ```bash
 <!-- It is a Comment  -->
 ```
