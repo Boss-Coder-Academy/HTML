@@ -259,6 +259,7 @@ Follow the Given steps to create the following in HTML:
 + Select "Open with Live Server" from the context menu.
 + Or click on “Go Live” in the right bottom corner of the VS code window.
 
+![Alt text](https://i.postimg.cc/RFBHGhwb/arg.jpg)
 
 
 
