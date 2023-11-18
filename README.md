@@ -278,6 +278,6 @@ This task can be done with the help of lists and links and by following the same
 
 **Task 3**: Create a dropdown for the avatar on the right corner of the navbar
 
-This task can also be done with the help of <select> and <option> tags or lists and links and by following the same structure as in task 1. 
+This task can also be done with the help of `<select>` and `<option>` tags or lists and links and by following the same structure as in task 1. 
 
 
