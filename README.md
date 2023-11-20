@@ -24,6 +24,12 @@ HTML documents are composed of:
 + Elements: Building blocks of HTML pages.
 + Tags: Define different parts of the content.
 + Attributes: Provide additional information about elements.
++ Comments Comments are used to add notes or descriptions within the code that are not visible to users when the page is rendered in a web browser.
+We can pass comments in an HTML document in the following way :
+
+```bash
+<!-- It is a Comment  -->
+```
 
 
 Basic Structure of an HTML document:
@@ -123,14 +129,6 @@ Creating tables with `<table>`, `<tr>`, `<td>`, and `<th>`:
 </table>
 ```
 
-+ #### Comments
-
-Comments are used to add notes or descriptions within the code that are not visible to users when the page is rendered in a web browser.
-We can pass comments in an HTML document in the following way :
-
-```bash
-<!-- It is a Comment  -->
-```
 
 
 ### 5. Assignment
@@ -276,8 +274,12 @@ Follow the Given steps to create the following in HTML:
 
 This task can be done with the help of lists and links and by following the same structure as in task 1. 
 
+![Alt text](https://i.postimg.cc/0yXBWFBZ/17.jpg)
+
 **Task 3**: Create a dropdown for the avatar on the right corner of the navbar
 
 This task can also be done with the help of `<select>` and `<option>` tags or lists and links and by following the same structure as in task 1. 
+
+![Alt text](https://i.postimg.cc/vT87dH1n/18.jpg)
 
 
