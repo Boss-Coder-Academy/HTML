@@ -272,13 +272,13 @@ Follow the Given steps to create the following in HTML:
 
 **Task 2**: Create a navbar
 
-This task can be done with the help of lists and links and by following the same structure as in task 1. 
+This task can be done with the help of lists and links and by following the same structure as in task 1. And the output would look like this:
 
 ![Alt text](https://i.postimg.cc/0yXBWFBZ/17.jpg)
 
 **Task 3**: Create a dropdown for the avatar on the right corner of the navbar
 
-This task can also be done with the help of `<select>` and `<option>` tags or lists and links and by following the same structure as in task 1. 
+This task can also be done with the help of `<select>` and `<option>` tags or lists and links and by following the same structure as in task 1.And the output would look like this: 
 
 ![Alt text](https://i.postimg.cc/vT87dH1n/18.jpg)
 
