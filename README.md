@@ -1,5 +1,20 @@
 # HTML 
 
+### Table of Contents
+
+1. Introduction
+2. Extensions
+3. Basics of HTML:
+      + Basic HTML Structure
+4. Essential HTML elements:
+      + Headings
+      + Paragraphs
+      + Links
+      + Images
+      + Teams
+      + Forms
+      + Tables
+5. Assignment
 
 
 ### 1. Introduction
