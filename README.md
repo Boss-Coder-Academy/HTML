@@ -1,6 +1,6 @@
 # HTML 
 
-### Table of Contents
+### Agenda
 
 1. **Introduction**
 2. **Extensions**
