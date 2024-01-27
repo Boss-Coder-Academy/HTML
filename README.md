@@ -300,3 +300,7 @@ This task can also be done with the help of `<select>` and `<option>` tags or li
 ![Alt text](https://i.postimg.cc/vT87dH1n/18.jpg)
 
 
+**Task 4**: Create a Registration form that takes input Name, Email, Gender, Country, and address and has a submit and a reset button
+
+This task can also be done with the help of `<radio>`, `<select>`, `<option>`, and other related tags. 
+
